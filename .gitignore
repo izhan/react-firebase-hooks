@@ -4,8 +4,8 @@ node_modules
 npm-debug.log
 
 # Rollup build output
-**/dist
-**/*.d.ts
+# **/dist
+# **/*.d.ts
 
 # OS files
 .DS_Store
